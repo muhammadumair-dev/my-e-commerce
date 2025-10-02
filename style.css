@@ -151,7 +151,7 @@ ul {
 
 /* Hero Section */
 .hero-section {
-    background-image: url('image/hero.png');
+    background-image: url('image/image.png');
     background-size: cover;
     /* پورے div کو cover کرے گا */
     background-position: center;
