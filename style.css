@@ -161,6 +161,7 @@ ul {
     min-height: 600px;
     /* Adjust height as needed */
     overflow: hidden;
+    margin-bottom: 50px;
 }
 
 .hero-content {
@@ -349,7 +350,7 @@ ul {
 
 .container {
 
-    
+  
     justify-self: center;
  
 
